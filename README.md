@@ -1,8 +1,9 @@
-<H1> Zomato Web Clone <h1>
-<a href="shreya-103.githhub.io/Zomato-Clone">Click it here to see </a>
+<H1 style="text-align: center" > Zomato Web Clone <h1>
+  <hr>
+<a href="shreya-103.githhub.io/Zomato-Clone" style="font-size: 20px;">Click it here to see </a>
 
 <main>
-  <li>
+  <li style="font-size: 20px;">
     <ul> Made it only for learning purpose </ul>
     <ul> i made this static zomato website clone while learning CSS.</ul>
     <ul> A very basic clone web used to uderstand different aspects of css like box model, flexbox, grid etc </ul>
